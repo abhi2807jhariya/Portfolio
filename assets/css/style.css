@@ -319,6 +319,7 @@ i {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-weight: 600;
+  text-wrap: nowrap;
 }
 
 /* about us css start */
@@ -327,7 +328,7 @@ i {
   height: 60px;
   border-radius: 50%;
   background: #b1b493;
-  opacity: 0.9;
+  opacity: 0.8;
   color: rgb(255, 255, 255);
 }
 .round:hover{
