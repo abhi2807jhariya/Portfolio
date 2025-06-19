@@ -498,3 +498,6 @@ i {
   background-color: #000000;
 }
 /* end scroll to top css */
+.skill{
+  white-space: nowrap !important;
+}
